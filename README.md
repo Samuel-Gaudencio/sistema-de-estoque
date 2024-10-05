@@ -21,8 +21,8 @@ Este é um aplicativo web simples para gerenciar um estoque de produtos. Ele per
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/Samuel-Gaudencio/sistema-de-estoque.git
+   cd sistema-de-estoque
    ```
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
    ```bash
