@@ -35,9 +35,9 @@ Este é um aplicativo web simples para gerenciar um estoque de produtos. Ele per
    pip install -r requirements.txt
    ```
 4. **Configuração do Supabase:**
-  . Crie uma conta no Supabase e crie um novo projeto.
-  . Configure a tabela ProductStock com os campos necessários: id, nomeProduto, quantidadeEstoque, preco, fotoProduto.
-  . Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+  - Crie uma conta no Supabase e crie um novo projeto.
+  - Configure a tabela ProductStock com os campos necessários: id, nomeProduto, quantidadeEstoque, preco, fotoProduto.
+  - Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 
    ```bash
    SUPABASE_URL=sua_url_do_supabase
@@ -50,8 +50,8 @@ Este é um aplicativo web simples para gerenciar um estoque de produtos. Ele per
    Substitua seu_arquivo_principal.py pelo nome do arquivo onde está o seu código.
 
 ## Uso
-. Acesse a aplicação no seu navegador (normalmente em http://127.0.0.1:8000).
-. Utilize o formulário para adicionar novos produtos e gerenciar o estoque.
+- Acesse a aplicação no seu navegador (normalmente em http://127.0.0.1:8000).
+- Utilize o formulário para adicionar novos produtos e gerenciar o estoque.
 
 ##Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
